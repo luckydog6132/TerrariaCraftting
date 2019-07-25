@@ -1,5 +1,7 @@
 # Terraria Craftting Guide
 
+### Terraria v1.3.5
+
 ```
 = 火把(Torch | 8) x 3
 	+ 凝胶 x 1
