@@ -1,6 +1,6 @@
 # Terraria Craftting Guide
 
-### Terraria v1.3.5
+### Terraria v1.3.5 [官方中文Wiki](https://terraria-zh.gamepedia.com)
 
 ```
 = 火把(Torch | 8) x 3
